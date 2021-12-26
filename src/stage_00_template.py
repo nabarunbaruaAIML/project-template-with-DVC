@@ -13,6 +13,8 @@ logging.basicConfig(
     )
 STAGE = 'Template'
 def main(config_path):
+    #config = read_yaml(config_path.config)
+    #params = read_yaml(config_path.params)
     pass
 
 if __name__ == '__main__':
